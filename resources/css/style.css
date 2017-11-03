@@ -532,11 +532,13 @@ textarea
     padding: 7px;
     border-radius: 3px;
     border: 1px solid #ccc;
+    color: #fff;
 }
 
 textarea
 {
     height: 100%;
+    color: #000;
 }
 
 input[type=checkbox]
@@ -563,13 +565,9 @@ input[type=checkbox]
 
 .section-form
 {
-    background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.8)),to(rgba(0, 0, 0, 0.8))), url(img/hero.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url(img/hero.jpg);
-    background-size:cover;
-    color: #fff;
-    background-attachment: fixed;
-    
+    color: #000;
 }
+
 
 /*--------Footer---------*/
 /*--------Footer---------*/
